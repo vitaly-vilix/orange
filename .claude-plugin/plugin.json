@@ -1,0 +1,8 @@
+{
+  "name": "orange",
+  "version": "0.1.0",
+  "description": "Warm orange theme for the Claude desktop app, with your public IP address beating like a heart in the corner",
+  "license": "MIT",
+  "author": { "name": "vitaly-vilix" },
+  "types": "./types/index.d.ts"
+}

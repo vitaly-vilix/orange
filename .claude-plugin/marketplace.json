@@ -1,0 +1,5 @@
+{
+  "name": "orange",
+  "owner": { "name": "vitaly-vilix" },
+  "plugins": [{ "name": "orange", "source": "./" }]
+}
